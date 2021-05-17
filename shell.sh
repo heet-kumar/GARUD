@@ -1,0 +1,1 @@
+echo "Hello World and Welcome to the Shell Script"
