@@ -1,5 +1,5 @@
 #!/bin/sh
-#path="C:/Users/ABHIJEET/Desktop/test/" # Replace this with the path to your git repository. To get path, run pwd in the directory or right click and select properties of the folder  
+#path="C:/Users/HP/Desktop/test/" # Replace this with the path to your git repository. To get path, run pwd in the directory or right click and select properties of the folder  
 path=$1
 while true 
 do
